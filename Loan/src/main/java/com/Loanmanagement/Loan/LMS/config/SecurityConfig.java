@@ -1,6 +1,5 @@
-package com.Loanmanagement.Loan.config;
+package com.Loanmanagement.Loan.LMS.config;
 
 public class SecurityConfig {
     //sami this
-
 }
