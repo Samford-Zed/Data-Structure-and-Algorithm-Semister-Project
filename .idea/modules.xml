@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Loan.iml" filepath="$PROJECT_DIR$/.idea/Loan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loan/Loan.iml" filepath="$PROJECT_DIR$/Loan/Loan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Loan_Management_System.iml" filepath="$PROJECT_DIR$/.idea/Loan_Management_System.iml" />
     </modules>
   </component>
 </project>
