@@ -78,16 +78,6 @@
   <li><b>Yesak Haileyesus</b> — UGR/31404/15 — Section 6</li>
 </ul>
 
-<hr/>
-
-<h2>📅 Submission Details</h2>
-<ul>
-  <li><b>Course:</b> Data Structures and Algorithms</li>
-  <li><b>Submitted To:</b> Mr. Megersa</li>
-  <li><b>Submission Date:</b> 29 / 03 / 2024</li>
-</ul>
-
-<hr/>
 
 <p align="center">
   <i>📌 This project was developed for academic purposes to demonstrate practical DSA implementation in C++.</i>
