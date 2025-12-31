@@ -64,7 +64,7 @@
   </li>
   <li>Open in any C++ IDE (Code::Blocks / Dev-C++ / Visual Studio) or use g++.</li>
   <li>Compile and run the program.</li>
-  <li>Follow the menu instructions in the terminal.</li>
+  <li>Follow the menu instructions in the terminal..</li>
 </ol>
 
 <hr/>
